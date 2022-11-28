@@ -1,0 +1,31 @@
+Desafio QA
+
+Objetivo do Desafio
+
+A proposta deste Desafio é analisar as suas habilidades em conceber cenários de testes, Vamos considerar e avaliar todas etapas, então faça com calma e não tenha medo de errar ! 
+ 
+O Desafio
+1 O Cenário de testes se baseia  em nossa pagina de Reservas On line  que é disponibilizada para nossos clientes colocar em seu sites. 
+1.2 Endereço Web https://www.desbravador.com.br/8050
+
+
+1.3 Escrever  ao menos 5 casos de teses funcionais
+explicar e detalhar o porquê escolheu esses cenários. 
+
+
+2. Executar os testes e documentar os resultados  dos seus testes.
+Tente focar em cenários críticos. 
+
+
+3. Processo de Submissão e Prazo de entrega
+Para o processo de submissão, você deverá seguir os passos abaixo:
+
+Você deverá fazer um fork deste repositório (não clonar!)
+Desenvolva todo seu projeto neste fork
+Todos commits e alterações deverá ser feita em seu fork
+Quando tiver tudo pronto, envie um Pull Request para este repositório.
+Você tem 5 dias para concluir e enviar o Desafio..
+
+4. Considerações Finais
+Não se esqueça de montar seus casos utilizando o BDD e  de prover informações detalhadas do por que montou os seus cenários. 
+ Vamos considerar e avaliar todas etapas, não tenha medo de errar !
